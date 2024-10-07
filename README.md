@@ -6,8 +6,8 @@ Here's where I share my code (and sometimes data) for my interdisciplinary colla
 <summary>⚡️ More about my coding journey</summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zheeeng&layout=compact&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malfaro2&layout=compact&hide=css,html)
 
-![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=zheeeng&count_private=true&show_icons=true&theme=onedark)
+![Marcela's github stats](https://github-readme-stats.vercel.app/api?username=malfaro2&count_private=true&show_icons=true&theme=onedark)
 
 </details>
