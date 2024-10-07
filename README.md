@@ -8,6 +8,4 @@ Here's where I share my code (and sometimes data) for my interdisciplinary colla
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malfaro2&layout=compact&hide=css,html)
 
-![Marcela's github stats](https://github-readme-stats.vercel.app/api?username=malfaro2&count_private=true&show_icons=true&theme=onedark)
-
 </details>
