@@ -16,7 +16,10 @@
   <img align="left" alt="Marcela's email" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png">
 </a>
 
-<br />
+<br>
+<br>
+<br>
+
 
 
 I'm an Assistant Professor of Teaching in the Department of Statistics at [UC Santa Cruz](https://www.ucsc.edu/), specializing in applied statistics and data science and statistics education.
