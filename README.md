@@ -1,8 +1,6 @@
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-
-Hi 👋 I'm Marcela  
-Assistant Professor of Teaching in the Department of Statistics at [UC Santa Cruz](https://www.ucsc.edu/), specializing in applied statistics and data science and statistics education.
+I'm Marcela, I'm an Assistant Professor of Teaching in the Department of Statistics at [UC Santa Cruz](https://www.ucsc.edu/), specializing in applied statistics and data science and statistics education.
 
 Here's where I share my code (and sometimes data) from my interdisciplinary collaborations and teaching practice. 
 
