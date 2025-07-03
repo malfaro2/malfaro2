@@ -18,6 +18,7 @@
 
 <br>
 
+
 I'm an Assistant Professor of Teaching in the Department of Statistics at [UC Santa Cruz](https://www.ucsc.edu/), specializing in applied statistics and data science and statistics education.
 
 Here's where I share my code (and sometimes data) from my interdisciplinary collaborations and teaching practice. 
