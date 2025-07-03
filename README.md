@@ -1,6 +1,24 @@
-### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> I'm Marcela
 
-I'm Marcela, I'm an Assistant Professor of Teaching in the Department of Statistics at [UC Santa Cruz](https://www.ucsc.edu/), specializing in applied statistics and data science and statistics education.
+<a href="https://campusdirectory.ucsc.edu/cd_detail?uid=macordob">
+  <img align="left" alt="Marcela's UCSC page" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/UC_Santa_Cruz_logo.svg">
+</a>
+<a href="https://www.linkedin.com/in/malfaro18/">
+  <img align="left" alt="Marcela's LinkedIN" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png">
+</a>
+<a href="https://scholar.google.com/citations?user=8Viy0j4AAAAJ&hl=en&oi=ao">
+  <img align="left" alt="Marcela's Google Scholar" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/googlescholar.svg">
+</a>
+<a href="https://www.researchgate.net/profile/Marcela-Alfaro-Cordoba-2?ev=hdr_xprf">
+  <img align="left" alt="Marcela's ResearchGate" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/32px-ResearchGate_icon_SVG.svg.png">
+</a>
+<a href="mailto:macordob@ucsc.edu">
+  <img align="left" alt="Marcela's email" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png">
+</a>
+
+<br>
+
+I'm an Assistant Professor of Teaching in the Department of Statistics at [UC Santa Cruz](https://www.ucsc.edu/), specializing in applied statistics and data science and statistics education.
 
 Here's where I share my code (and sometimes data) from my interdisciplinary collaborations and teaching practice. 
 
