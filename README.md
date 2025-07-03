@@ -16,7 +16,7 @@
   <img align="left" alt="Marcela's email" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png">
 </a>
 <a href="https://campusdirectory.ucsc.edu/cd_detail?uid=macordob">
-  <img align="left" alt="Marcela's UCSC page" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/UC_Santa_Cruz_logo.svg">
+  <img align="left" alt="Marcela's UCSC page" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/UC_Santa_Cruz_logo.svg">
 </a>
 
 <br>
