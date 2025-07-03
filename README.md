@@ -1,7 +1,7 @@
 ### Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> I'm Marcela
 
-<a href="https://campusdirectory.ucsc.edu/cd_detail?uid=macordob">
-  <img align="left" alt="Marcela's UCSC page" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/UC_Santa_Cruz_logo.svg">
+<a href="https://orcid.org/0000-0002-7703-3578">
+  <img align="left" alt="Marcela's ORCID" width="25px" src="hhttps://commons.wikimedia.org/wiki/File:ORCID_iD.svg">
 </a>
 <a href="https://www.linkedin.com/in/malfaro18/">
   <img align="left" alt="Marcela's LinkedIN" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png">
@@ -14,6 +14,9 @@
 </a>
 <a href="mailto:macordob@ucsc.edu">
   <img align="left" alt="Marcela's email" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png">
+</a>
+<a href="https://campusdirectory.ucsc.edu/cd_detail?uid=macordob">
+  <img align="left" alt="Marcela's UCSC page" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/UC_Santa_Cruz_logo.svg">
 </a>
 
 <br>
