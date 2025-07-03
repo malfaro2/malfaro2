@@ -2,9 +2,9 @@
 
 
 Hi 👋 I'm Marcela  
-Assistant Professor of Teaching in the Department of Statistics at [UC Santa Cruz](https://www.ucsc.edu/), specializing in spatial-temporal statistics, climate science applications, and statistics education innovation.
+Assistant Professor of Teaching in the Department of Statistics at [UC Santa Cruz](https://www.ucsc.edu/), specializing in applied statistics and data science and statistics education.
 
-Here's where I share my code (and sometimes data) from my interdisciplinary collaborations. 
+Here's where I share my code (and sometimes data) from my interdisciplinary collaborations and teaching practice. 
 
 <details>
 <summary>⚡️ More about my coding journey</summary>
@@ -32,9 +32,6 @@ Co-chairing international efforts to advance data science education globally thr
 
 ## **Research Areas**
 
-**🌡️ Spatial-Temporal Statistical Methods**  
-Developing statistical approaches for climate models and environmental data analysis.
-
 **🔬 Interdisciplinary Statistical Collaboration**  
 Working with researchers across disciplines on:
 * Design of Experiments applied to Biophysics
@@ -42,7 +39,7 @@ Working with researchers across disciplines on:
 * Climate science applications
 
 **🔓 Reproducibility & Open Science**  
-Advancing transparent and reproducible statistical practices in scientific research.
+Advancing transparent and reproducible statistical practices in scientific research and how to teach the next generation of scientists.
 
 ## **Community Leadership**
 
