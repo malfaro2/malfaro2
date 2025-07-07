@@ -49,6 +49,7 @@ Leading educational innovation at UCSC through curriculum design and program cre
 * Co-created the new Statistics and Data Science degree program
 * Redesigning introductory statistics courses for modern data science applications
 * Developing new courses on data science methods and data ethics
+* Training the new generation of instructors of statistics via STAT 200 and the Teaching and Learning Center training for TAs
 
 **🌍 CODATA-RDA Schools of Data Science**  
 Co-chairing international efforts to advance data science education globally through the [CODATA-RDA Schools of Data Science](https://www.datascienceschools.org/) initiative.
