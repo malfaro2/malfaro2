@@ -29,14 +29,6 @@ I'm an Associate Professor of Teaching in the Department of Statistics at [UC Sa
 
 Here's where I share my code (and sometimes data) from my interdisciplinary collaborations and teaching practice. 
 
-<details>
-<summary>⚡️ More about my coding journey</summary>
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malfaro2&layout=compact&hide=css,html)
-
-</details>
-
 ## **Current Projects**
 
 **🔬 ReproStats Lab**  
