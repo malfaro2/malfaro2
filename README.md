@@ -9,9 +9,6 @@
 <a href="https://scholar.google.com/citations?user=8Viy0j4AAAAJ&hl=en&oi=ao">
   <img align="left" alt="Marcela's Google Scholar" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/googlescholar.svg">
 </a>
-<a href="https://www.researchgate.net/profile/Marcela-Alfaro-Cordoba-2?ev=hdr_xprf">
-  <img align="left" alt="Marcela's ResearchGate" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/32px-ResearchGate_icon_SVG.svg.png">
-</a>
 <a href="mailto:macordob@ucsc.edu">
   <img align="left" alt="Marcela's email" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png">
 </a>
