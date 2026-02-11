@@ -9,9 +9,6 @@
 <a href="https://scholar.google.com/citations?user=8Viy0j4AAAAJ&hl=en&oi=ao">
   <img align="left" alt="Marcela's Google Scholar" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/googlescholar.svg">
 </a>
-<a href="mailto:macordob@ucsc.edu">
-  <img align="left" alt="Marcela's email" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png">
-</a>
 <a href="https://campusdirectory.ucsc.edu/cd_detail?uid=macordob">
   <img align="left" alt="Marcela's UCSC page" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/UC_Santa_Cruz_logo.svg">
 </a>
